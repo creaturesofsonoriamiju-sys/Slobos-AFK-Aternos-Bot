@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PvPMaster911-k833.aternos.me:35697",
+    "port": 35697,
     "version": "",
     "try-creative": false
   },
